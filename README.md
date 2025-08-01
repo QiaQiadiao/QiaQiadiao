@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Hi! I am a undergraduate student from Earth.  Focus on front-end and strive to become a full-stack engineer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiaQiadiao)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiaQiadiao)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiaQiadiao icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiaQiadiao icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
