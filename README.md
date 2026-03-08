@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I am a undergraduate student from Earth.  Focus on front-end and strive to become a full-stack engineer.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiaQiadiao&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiaQiadiao&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+Hi! I am a undergraduate student from Earth.  My life: reading, meditating, coding. Hope i can stay curious!
 
